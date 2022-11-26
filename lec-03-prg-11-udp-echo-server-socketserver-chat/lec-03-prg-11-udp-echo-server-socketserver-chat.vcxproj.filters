@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\lec4SocketClient\lec4Socket_1\lec4SocketServerMultithreadChat\lec-03-prg-11-udp-echo-server-socketserver-chat.cpp">
+    <ClCompile Include="..\..\lec4SocketClient\lec4Socket_1\lec4SocketServerUdpChat\lec-03-prg-11-udp-echo-server-socketserver-chat.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
