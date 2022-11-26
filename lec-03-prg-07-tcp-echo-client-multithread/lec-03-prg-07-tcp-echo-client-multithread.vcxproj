@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\lec4SocketClient\lec4SocketClient\lec4SocketClientMultithread\lec-03-prg-07-tcp-echo-client-multithread.cpp" />
+    <ClCompile Include="lec-03-prg-07-tcp-echo-client-multithread.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

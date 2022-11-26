@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\lec4SocketClient\lec4Socket_1\lec4Socket\lec-03-prg-01-tcp-echo-server.cpp" />
+    <ClCompile Include="lec-03-prg-01-tcp-echo-server.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
